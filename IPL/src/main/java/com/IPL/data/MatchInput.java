@@ -161,5 +161,27 @@ public class MatchInput {
         Team1Players = team1Players;
     }
 
-    
+    public String getTeam2Players() {
+        return Team2Players;
+    }
+
+    public void setTeam2Players(String team2Players) {
+        Team2Players = team2Players;
+    }
+
+    public String getUmpire1() {
+        return Umpire1;
+    }
+
+    public void setUmpire1(String umpire1) {
+        Umpire1 = umpire1;
+    }
+
+    public String getUmpire2() {
+        return Umpire2;
+    }
+
+    public void setUmpire2(String umpire2) {
+        Umpire2 = umpire2;
+    }
 }
