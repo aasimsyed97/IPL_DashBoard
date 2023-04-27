@@ -137,33 +137,6 @@ public class MatchInput {
         Margin = margin;
     }
 
-    public String getMethod() {
-        return method;
-    }
-
-    public void setMethod(String method) {
-        this.method = method;
-    }
-
-    public String getPlayer_of_Match() {
-        return Player_of_Match;
-    }
-
-    public void setPlayer_of_Match(String player_of_Match) {
-        Player_of_Match = player_of_Match;
-    }
-
-    public String getTeam1Players() {
-        return Team1Players;
-    }
-
-    public void setTeam1Players(String team1Players) {
-        Team1Players = team1Players;
-    }
-
-    public String getTeam2Players() {
-        return Team2Players;
-    }
 
     public void setTeam2Players(String team2Players) {
         Team2Players = team2Players;
